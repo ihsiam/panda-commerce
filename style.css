@@ -1,0 +1,90 @@
+.nav-link{
+    border-radius: 5px;
+    letter-spacing: 1.5px;
+    transition: .4s;
+    color: black !important;
+}
+
+.nav-link:hover{
+    background-color: black;
+    color: white !important;
+}
+
+.banner-img img{
+    height: auto;
+    width: 100%;
+}
+
+.carousel{
+    background-color: #FEEAE9;
+    padding: 20px 80px;
+    border-radius: 10px;
+    margin-top: 100px;
+}
+
+.price{
+    color: #FF136F;
+}
+
+.buy-now{
+    background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+    padding: 9px 25px;
+    border-radius: 8px;
+    cursor: pointer;
+    border: none;
+    color: #ffff;
+}
+
+.catagory{
+    margin-top: 100px;
+}
+
+.catagory h1{
+    color: white;
+}
+
+.cat1, .cat2, .cat3{
+    padding: 15px 25px;
+    border-radius: 8px;
+    margin-bottom: 5px;
+}
+
+.cat1{
+    background-color: #4289FF;
+}
+
+.cat2{
+    background-color: #FF9C35;
+}
+
+.cat3{
+    background-color: #FF589B;
+}
+
+#shoes, #backpack{
+    padding: 25px 0;
+    background-color: #F4F4F4;
+}
+
+.c-title{
+    padding-bottom: 25px;
+}
+
+.card{
+    border-radius: 10px !important;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#contact-us .container{
+    background-color: #FFF2F1;
+    border-radius: 8px;
+    padding: 50px 0px;
+    flex-direction: column;
+}
+
+#contact-us .container input{
+    outline: none;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
